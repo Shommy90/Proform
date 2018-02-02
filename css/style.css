@@ -180,7 +180,7 @@ margin-top: 20vh; text-align: center;}
 h3.modal-title {text-transform: uppercase; font-family: 'Raleway', sans-serif; font-weight: 700; font-size: 36px; color: #82a7b9; line-height: 70px;}
 .modal-works .modal-works-content h5 {font-family: 'Raleway', sans-serif; font-weight: 500; font-size: 24px; line-height: 54px; color: #82a7b9;}
 .modal-works .modal-works-content p {font-family: 'Raleway', sans-serif; font-weight: 400; font-size: 16px; line-height: 28px; color: #777777;}
-span.modal-close {display: inline-block; position: absolute; width: 60px; height: 60px; background: #fff; border-radius: 60px;
+span.modal-close {box-shadow: 0 0 15px #777; display: inline-block; position: absolute; width: 60px; height: 60px; background: #fff; border-radius: 60px;
 right: -30px; top: -30px; color: #82a7b9; font-family: 'Raleway', sans-serif; font-weight: 500; font-size: 75px; line-height: 50px; cursor: pointer;}
 
 
